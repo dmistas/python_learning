@@ -1,0 +1,4 @@
+Pasha - 100
+Igor - 500
+Petya - 200
+Masha - 150
